@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/1d3/paymentpage-sdk-python.svg?branch=main)](https://travis-ci.com/1d3/paymentpage-sdk-python)
-
 # 1D3 payment page SDK
 
 This is a set of libraries in the Python language to ease integration of your service

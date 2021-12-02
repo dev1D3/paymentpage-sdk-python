@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 setup(
     name='1d3-sdk',
     version='1.0.3',
-    url='https://github.com/1d3/paymentpage-sdk-python',
+    url='https://github.com/dev1d3/paymentpage-sdk-python',
     license='MIT',
     long_description=README,
     long_description_content_type="text/markdown",
